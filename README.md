@@ -1,16 +1,15 @@
-# musicplayer
+# Design
 
-A new Flutter project.
+![Image description](https://cdn.dribbble.com/users/1615730/screenshots/9517002/media/79fb15de67e7ca9c8eccacf1523e3a9c.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Source  https://dribbble.com/shots/9517002--Light-Mode-Simple-Music-Player/attachments/1542953?mode=media
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## ScreenShots from a real device
+
+![Image description](https://github.com/dfourcfive/MusicPlayerUIFlutter/blob/master/screenshots/list.jpg)
+
+![Image description](https://github.com/dfourcfive/MusicPlayerUIFlutter/blob/master/screenshots/playing.jpg)
